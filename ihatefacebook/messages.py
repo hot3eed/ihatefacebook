@@ -1,0 +1,6 @@
+CORRUPTED_CONFIG_F_ERR = "ERROR: Seems that your config file has been tampered with."
+NO_CONFIG_F = "No config file has been created, add configurations with the command config to create one."
+NO_CONFIGS = "No configurations have been set. Add them using the config command."
+NO_EMAIL_ERR = "ERROR: No user.email has been set. Add it using the config command."
+CORRUPTED_PAGES_F_ERR = "ERROR: Seems that your page.json file has been tampered with."
+NO_PAGES = "No pages are set, add them via the add-page command."
